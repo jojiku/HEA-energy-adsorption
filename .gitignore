@@ -1,0 +1,13 @@
+*.txt
+*.png
+*.graphs
+__pycache__/
+*.py[cod]
+*$py.class
+env_hea_newest/
+train_data_dft/HEA_results_fives/*
+train_data_dft/HEA_results_triplets/*
+train_data_dft/HEA_results_pairs/*
+train_data_graphs/
+*.state
+best_composition_finder.py
